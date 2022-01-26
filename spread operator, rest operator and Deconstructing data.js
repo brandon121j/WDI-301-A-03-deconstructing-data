@@ -74,6 +74,6 @@ const [firstFood, secondFood] = favoriteFoods;
 const data = ['peter', '34', 'apple', 'oranges', 'pizza', 'tacos'];
 const [name, age, ...food] = data
 
-console.log('First Name: ', name);
+console.log('Name: ', name);
 console.log('Age: ', age);
 console.log('Favorite Foods: ', food);
